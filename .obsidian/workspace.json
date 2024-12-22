@@ -11,10 +11,24 @@
             "id": "76e8de1ab0fab433",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Tutorials/Test File.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Test File"
             }
           }
         ]
@@ -70,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,8 +188,9 @@
       "khoj:Khoj": false
     }
   },
-  "active": "76e8de1ab0fab433",
+  "active": "5ca15e000dacce7a",
   "lastOpenFiles": [
+    "Tutorials/Test File.md",
     "Tutorials/Webdev"
   ]
 }
