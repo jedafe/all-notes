@@ -2,6 +2,6 @@
   "remoteURL": "https://github.com/jedafe/my-notes.git",
   "gitLocation": "",
   "syncinterval": 0,
-  "isSyncOnLoad": false,
+  "isSyncOnLoad": true,
   "checkStatusOnLoad": true
 }

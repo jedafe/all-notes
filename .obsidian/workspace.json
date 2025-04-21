@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c411e7964165e07a",
+        "id": "757661eaa6f653e2",
         "type": "tabs",
         "children": [
           {
-            "id": "76e8de1ab0fab433",
+            "id": "9175fc3425afa0df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A new Modern File.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "A new Modern File"
+              "title": "README"
+            }
+          },
+          {
+            "id": "090cfc4a61ba5b3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Geek.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "My Geek"
+            }
+          },
+          {
+            "id": "a97db24b06e8b9b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maybe Tool.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Maybe Tool"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,13 +227,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "fit:Fit Sync": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false,
       "khoj:Khoj": false
     }
   },
@@ -192,6 +241,11 @@
   "lastOpenFiles": [
     "Tutorials/Test File.md",
     "A new Modern File.md",
+    "My Geek.md",
+    "Maybe Tool.md",
+    "_fit/A new Modern File.md",
+    "_fit",
+    "README.md",
     "Tutorials/Webdev"
   ]
 }
