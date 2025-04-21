@@ -1,5 +1,6 @@
 [
   "virtual-linker",
   "khoj",
-  "github-sync"
+  "github-sync",
+  "dynamic-outline"
 ]
