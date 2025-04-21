@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Tutorials/Nice Note.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Nice Note"
             }
           }
         ]
@@ -185,18 +185,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "khoj:Khoj": false
+      "khoj:Khoj": false,
+      "fit:Fit Sync": false
     }
   },
   "active": "9175fc3425afa0df",
   "lastOpenFiles": [
+    "README.md",
+    "Tutorials/Nice Note.md",
     "Maybe Tool.md",
     "Tutorials/Test File.md",
     "A new Modern File.md",
     "My Geek.md",
     "_fit/A new Modern File.md",
     "_fit",
-    "README.md",
     "Tutorials/Webdev"
   ]
 }
