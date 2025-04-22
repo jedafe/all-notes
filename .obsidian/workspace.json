@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorials/Lopret Uhin.md",
+                "file": "Tutorials/Programming/New Programming.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lopret Uhin"
+              "title": "New Programming"
             }
           }
         ]
@@ -177,9 +177,19 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "e6bf4571ba7c9236",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -201,6 +211,7 @@
   "active": "06049772afc4a58f",
   "lastOpenFiles": [
     "Tutorials/Lopret Uhin.md",
+    "Tutorials/Programming/New Programming.md",
     "README.md",
     "Dictionary",
     "Tutorials/Nice Note.md",
