@@ -1,6 +1,13 @@
 [
   "virtual-linker",
   "khoj",
-  "github-sync",
-  "dynamic-outline"
+  "dynamic-outline",
+  "table-editor-obsidian",
+  "obsidian-another-quick-switcher",
+  "obsidian-dictionary-plugin",
+  "obsidian-auto-link-title",
+  "easy-typing-obsidian",
+  "editing-toolbar",
+  "obsidian-file-color",
+  "obsidian-git"
 ]
