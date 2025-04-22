@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorials/Programming/New Programming.md",
+                "file": "Dictionary/My New Dictionary.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "New Programming"
+              "title": "My New Dictionary"
             }
           }
         ]
@@ -210,8 +210,9 @@
   },
   "active": "06049772afc4a58f",
   "lastOpenFiles": [
-    "Tutorials/Lopret Uhin.md",
     "Tutorials/Programming/New Programming.md",
+    "Dictionary/My New Dictionary.md",
+    "Tutorials/Lopret Uhin.md",
     "README.md",
     "Dictionary",
     "Tutorials/Nice Note.md",
