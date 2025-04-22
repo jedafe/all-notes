@@ -11,24 +11,10 @@
             "id": "06049772afc4a58f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary/My New Dictionary.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "My New Dictionary"
+              "title": "New tab"
             }
           }
         ]
@@ -208,7 +194,7 @@
       "khoj:Khoj": false
     }
   },
-  "active": "06049772afc4a58f",
+  "active": "5ca15e000dacce7a",
   "lastOpenFiles": [
     "Tutorials/Programming/New Programming.md",
     "Dictionary/My New Dictionary.md",
