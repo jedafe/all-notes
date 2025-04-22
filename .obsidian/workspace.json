@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "6ed0238c5755da77",
+        "id": "9680e194bee823a7",
         "type": "tabs",
         "children": [
           {
-            "id": "ceb0ccb536961de8",
+            "id": "06049772afc4a58f",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/table-editor-obsidian/data.json",
-                "bFile": ".obsidian/plugins/table-editor-obsidian/data.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Tutorials/Lopret Uhin.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: data.json"
+              "icon": "lucide-file",
+              "title": "Lopret Uhin"
             }
           }
         ]
@@ -160,16 +169,6 @@
             }
           },
           {
-            "id": "c35582247ff3fa68",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "90f9f77f6a541ebb",
             "type": "leaf",
             "state": {
@@ -180,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -199,7 +198,7 @@
       "khoj:Khoj": false
     }
   },
-  "active": "ceb0ccb536961de8",
+  "active": "06049772afc4a58f",
   "lastOpenFiles": [
     "Tutorials/Lopret Uhin.md",
     "README.md",
